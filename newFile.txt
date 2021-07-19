@@ -1,2 +1,5 @@
-test
-test newwww
+Difference of ADD, COMMIT and PUSH 
+
+add = adding the changes to staged part which you can unstaged it.
+commit = commiting your changes to the branch which only you can see the committed changes
+push = pushing your changes to repo which can be viewed by other.
